@@ -4,8 +4,8 @@ A sleek, modern, and fully responsive weather application built with React and T
 
 **Live Demo:** **[https://weatherapp-phi-ashen.vercel.app/](https://weatherapp-phi-ashen.vercel.app/)**
 
-![Weatherly Screenshot](<path_to_your_screenshot.jpg>)
-*(Pro-tip: Take a nice screenshot of your app, add it to your project folder, and replace the path above to show it here!)*
+<img width="1880" height="934" alt="image" src="https://github.com/user-attachments/assets/a284aa37-17e2-40bf-87a2-29decec16d7e" />
+
 
 ---
 
