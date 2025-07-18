@@ -1,12 +1,29 @@
-# React + Vite
+# 🌦️ Weatherly - A Dynamic React Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, modern, and fully responsive weather application built with React and Tailwind CSS. It provides real-time weather data and a 3-day forecast for cities worldwide.
 
-Currently, two official plugins are available:
+**Live Demo:** **[https://weatherapp-phi-ashen.vercel.app/](https://weatherapp-phi-ashen.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Weatherly Screenshot](<path_to_your_screenshot.jpg>)
+*(Pro-tip: Take a nice screenshot of your app, add it to your project folder, and replace the path above to show it here!)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* **Dynamic Search**: Find real-time weather for any city in the world.
+* **Current Weather**: View temperature, "feels like" temperature, humidity, and wind speed.
+* **3-Day Forecast**: Get the high and low temperatures for the next three days.
+* **Animated UI**: Smooth, subtle animations for a modern user experience.
+* **Themed Backgrounds**: The background gradient changes based on the current weather conditions (clear, cloudy, rainy, etc.).
+* **Responsive Design**: Looks great on all devices, from mobile phones to desktop computers.
+
+---
+
+## 🛠️ Technologies Used
+
+* **Frontend**: React, Vite
+* **Styling**: Tailwind CSS
+* **Icons**: Lucide React
+* **Deployment**: Vercel
+* **API**: [IndianAPI.in](http://indianapi.in/) Weather API
